@@ -2,6 +2,7 @@
 Collections of Unreal Engine Source Code Learning Resources
 
 - [Unreal Engine Community Wiki](https://unrealcommunity.wiki/)
+- [UE4 Guide](https://ikrima.dev/ue4guide/)
 - [Gameplay Ability System](https://github.com/tranek/GASDocumentation)
 - [Exploring in UE4](https://zhuanlan.zhihu.com/p/34256771)
 - [Inside UE](https://www.zhihu.com/column/insideue4)
